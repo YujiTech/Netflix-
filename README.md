@@ -1,5 +1,5 @@
-<h2 align="center">YujiTech - Ntflix clone</h2>
+<h2 align="center">YujiTech - Netflix clone</h2>
 
   Netflix Clone, <br />Not Fully Responsive, build using HTML, CSS Only  .
 
-  <a href="https://YujiTech.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href[="https://yujitech.github.io/Netflix-clone/  "><strong>➥ Live Demo</strong></a> 
