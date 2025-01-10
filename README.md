@@ -2,4 +2,4 @@
 
   Netflix Clone, <br />Not Fully Responsive, build using HTML, CSS Only  .
 
-  <a href="https://yujitech.github.io/Netflix-clone/"><strong>➥ Live Demo</strong></a>    
+  <a href="https://netflix-clone-ii5w561p9-yujitechs-projects.vercel.app"><strong>➥ Live Demo</strong></a>     
